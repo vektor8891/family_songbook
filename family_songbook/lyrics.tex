@@ -1,0 +1,49 @@
+\documentclass[letterpaper]{article}
+\usepackage[lyric]{songs}
+\usepackage{emoji}
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{9.1in}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\newindex{titleidx}{toc}
+
+\begin{document}
+
+\quad 
+
+\begin{center}
+\vspace{3cm}
+\includegraphics[width=0.6\textwidth]{music}
+\vspace{3cm}
+\end{center}
+\begin{center}
+{\fontsize{60}{60}\selectfont CSALÁDI ÉNEKESKÖNYV}
+\end{center}
+
+\showindex{Tartalomjegyzék}{titleidx}
+
+\songsection{Családi énekeskönyv \emoji{musical-note}}
+
+\begin{center}
+\emoji{church}---himnuszok
+\emoji{child}---gyerekénekek
+\emoji{christmas-tree}---karácsonyi énekek
+\end{center}
+\newpage
+
+\begin{songs}{titleidx}
+\input{songs.sbd}
+\end{songs}
+
+\end{document}

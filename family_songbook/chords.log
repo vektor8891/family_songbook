@@ -1,0 +1,403 @@
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.31)  17 MAR 2023 22:33
+ restricted system commands enabled.
+**chords.tex
+(./chords.tex
+LaTeX2e <2022-06-01> patch level 5
+Lua module: luaotfload 2022-06-15 3.22 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/vszabo/.texlive2022/texmf-var
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-06-15.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2022-
+06-15.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.120
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/vszabo/.texlive2022/texmf-var
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
+.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2022-07-15>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/vszabo/.texlive2022/texm
+f-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen137
+) (./songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+
+(./emoji.sty
+Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-07-15 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2022-07-01 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count192
+\l__fontspec_language_int=\count193
+\l__fontspec_strnum_int=\count194
+\l__fontspec_tmp_int=\count195
+\l__fontspec_tmpa_int=\count196
+\l__fontspec_tmpb_int=\count197
+\l__fontspec_tmpc_int=\count198
+\l__fontspec_em_int=\count199
+\l__fontspec_emdef_int=\count266
+\l__fontspec_strong_int=\count267
+\l__fontspec_strongdef_int=\count268
+\l__fontspec_tmpa_dim=\dimen138
+\l__fontspec_tmpb_dim=\dimen139
+\l__fontspec_tmpc_dim=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/emoji/emoji-table.def
+File: emoji-table.def 2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\SB@dimen=\dimen141
+\SB@dimenii=\dimen142
+\SB@dimeniii=\dimen143
+\SB@dimeniv=\dimen144
+\SB@box=\box52
+\SB@boxii=\box53
+\SB@boxiii=\box54
+\SB@toks=\toks16
+\SB@cnt=\count269
+\SB@cntii=\count270
+\SB@skip=\skip49
+\SB@envbox=\box55
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\c@songnum=\count271
+\c@versenum=\count272
+\versesep=\skip50
+\afterpreludeskip=\skip51
+\beforepostludeskip=\skip52
+\baselineadj=\skip53
+\idxheadwidth=\skip54
+\songnumwidth=\skip55
+\versenumwidth=\skip56
+\cbarwidth=\skip57
+\sbarheight=\skip58
+\vvpenalty=\count273
+\ccpenalty=\count274
+\vcpenalty=\count275
+\cvpenalty=\count276
+\brkpenalty=\count277
+\spenalty=\count278
+\minfrets=\count279
+\SB@colwidth=\dimen145
+\SB@songbox=\box56
+\SB@numcols=\count280
+\SB@colnum=\count281
+\SB@colbox=\box57
+\SB@pgbox=\box58
+\SB@mrkbox=\box59
+\SB@groupcnt=\count282
+\SB@titlelist=\toks18
+\SB@titletail=\toks19
+\SB@parindent=\dimen146
+\SB@chorusbox=\box60
+\SB@cmarkclass=\marks4
+\SB@nocmarkclass=\marks5
+\SB@grouplvl=\count283
+\SB@transposefactor=\count284
+\SB@lyric=\toks20
+\SB@numhyps=\count285
+\SB@lyricnohyp=\toks21
+\SB@lyricbox=\box61
+\SB@chordbox=\box62
+\SB@cr@=\toks22
+\SB@ctail=\toks23
+\SB@fretwidth=\skip59
+\SB@tabindent=\dimen147
+\c@SB@songsnum=\count286
+\SB@songwrites=\box63
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3786.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3786.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3786.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3786.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+\SB@out=\write3
+
+\openout3 = chords.sxc
+
+(./chords.aux)
+\openout1 = chords.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+1.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 21.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 21.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 21.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 21.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 21.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 21.
+LaTeX Font Info:    Redeclaring math accent \check on input line 21.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 21.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 21.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 21.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 21.
+luaotfload | cache : Lookup cache loaded from /home/vszabo/.texlive2022/texmf-va
+r/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Font family 'NotoColorEmoji(0)' created for font 'Noto
+(fontspec)             Color Emoji' with options
+(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Renderer=Har
+fBuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoColorEmoji:mode=harf;script=DFLT;language=dflt;"
+
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen150
+\scratchbox=\box64
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen151
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<./images//guitar.jpeg, id=1, 977.15062pt x 1330.9725pt>
+File: ./images//guitar.jpeg Graphic file (type jpg)
+<use ./images//guitar.jpeg>
+Package luatex.def Info: ./images//guitar.jpeg  used on input line 24.
+(luatex.def)             Requested size: 281.85585pt x 383.92093pt.
+
+(./toc.sbx
+
+LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/m/sl' undefined
+(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 5.
+
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./images//guitar.jpeg>] [2</
+tmp/lua_uhawSF></tmp/lua_EsEf3f></tmp/lua_xqHyiJ>]
+
+LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/bx/n' undefined
+(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 33.
+
+[3
+
+</tmp/lua_FStfBK>] (./songs.sbd [4] [5
+
+] [6
+
+] [7] [8
+
+] [9] [10] [11] [12]
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22]) [23]
+\openout3 = toc.sxd
+ (./chords.sxc)
+(./chords.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 9595 strings out of 477474
+ 156267,552014 words of node,token memory allocated
+ 8898 words of node memory still in use:
+   150 hlist, 43 vlist, 5 rule, 10 disc, 10 local_par, 258 glue, 114 kern, 38 pe
+nalty, 483 glyph, 177 attribute, 59 glue_spec, 177 attribute_list, 2 write nodes
+
+   avail lists: 2:3240,3:799,4:96,5:1860,6:198,7:9807,8:3,9:3017,10:15,11:298
+ 30439 multiletter control sequences out of 65536+600000
+ 52 fonts using 8652079 bytes
+ 102i,6n,99p,352b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
+f/fonts/opentype/public/lm/lmroman5-bold.otf></usr/share/texmf/fonts/opentype/pu
+blic/lm/lmsans12-oblique.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
+0-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-oblique.otf></
+usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf></usr/share/texmf/fon
+ts/opentype/public/lm/lmroman17-regular.otf></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on chords.pdf (23 pages, 231500 bytes).
+
+PDF statistics: 148 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

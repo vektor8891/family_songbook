@@ -1,0 +1,882 @@
+% Családi énekeskönyv
+% Szabó család - 2022
+% cd ~/Dropbox/Backup_personal/Songs/family_songbook; . ./run.sh
+
+\beginsong{\emoji{child} Pillangó, ha lehetnék \\ \emoji{child} If I Were A Butterfly}[]
+\beginverse
+\[D]Pillangó, ha lehetnék, \brk \[G]táncolnék, míg \[G7]röpít a szél,\\
+\[D]S ha én lennék a cinege a fán, \brk \[A]dallal Istent \[A7]dicsérném.\\
+Vagy \[D]kis halként a tó fenekén \brk a \[G]buborékot vígan eregetném,\\
+De \[A]gyermeked lettem, \brk \[A7]köszönöm, Istenem, \[D]én.\\
+\endverse
+\beginchorus
+Te adtál \[D]szívet nekem, és hogy tiszta legyen,\\
+Te \[G]adtad Jézusom, hogy velem legyen,\\
+Te \[A]gyermeked lettem, \brk \[A7]köszönöm, Istenem, \[D]én.\\
+\endchorus
+\beginverse
+^Megfújnám a trombitát, \brk ha ^én lennék a ^kis elefánt,\\
+^S ha úgy élnék, mint kenguru, \brk ^ugrálnék a ^dombon át,\\
+S ha ^én lennék a kis polip, \brk ^vennék több pár kalucsnit,\\
+De ^gyermeked lettem, \brk ^köszönöm, Istenem, ^én.\\
+\endverse
+\beginverse
+^Selymet szépet hordanék, \brk ha ^egy kis hernyó ^lehetnék,\\
+^Krokodilként, ha utaznék, \brk ^nem sírnék, csak ^nevetnék.\\
+S ha ^én lennék egy borzas barna bocs, \brk ^számolnék, mert a medve mind okos,\\
+De ^gyermeked lettem, \brk ^köszönöm, Istenem, ^én.\\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{butterfly}
+\end{center}
+\fi
+\endsong
+
+
+\beginsong{\emoji{child} If I Were A Butterfly \\ \emoji{child} Pillangó, ha lehetnék}[by={Brian M. Howard}]
+\beginverse
+\[D]If I were a butterfly \brk I'd \[G]thank you Lord for \[G7]giving me wings\\
+\[D]If I were a robin in a tree \brk I'd \[A]thank you Lord that \[A7]dI could sing\\
+\[D]If I were a fish in the sea \brk I'd \[G]wiggle my tail and I'd giggle with glee\\
+But \[A]I just thank you \brk \[A7]Father for making me, \[D]me\\
+\endverse
+\beginchorus
+For you \[D]gave me a heart and you gave me a smile\\
+You \[G]gave me Jesus and you made me your child\\
+And \[A]I just thank you \brk \[A7]Father for making me, \[D]me\\
+\endchorus
+\beginverse
+^If I were an elephant \brk I'd ^thank you Lord by ^raising my trunk\\
+^If I were a kangaroo \brk You ^know I'd hop right ^up to you,\\
+^If I were an octopus \brk I'd ^thank you Lord for my fine looks\\
+But \[A]I just thank you \brk \[A7]Father for making me, \[D]me\\
+\endverse
+\beginverse
+^If I were a wiggly worm \brk I'd ^thank you Lord that ^I could squirm\\
+^If I were a fuzzy, wuzzy bear \brk I'd ^thank you Lord for my ^fuzzy, wuzzy hair\\
+^If I were a crocodile \brk I'd ^thank you Lord for my great smile\\
+But \[A]I just thank you \brk \[A7]Father for making me, \[D]me\\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.5\textwidth]{elephant}
+\end{center}
+\fi
+\endsong
+
+\clearpage
+
+\beginsong{\emoji{child} Ábrahámnak sok fia \\ \emoji{child} Father Abraham had many sons}[]
+\beginverse
+Ábra\[G]hámnak sok fia, \brk sok fi\[G]ának atyja \[D]Ábrahám,\\
+Az egyik \[D7]én vagyok, a másik te, \brk Hát \[D7]dicsérjük az U\[G]rat!\\
+\endverse
+\beginchorus
+Jobb kéz...\\
+Jobb kéz, bal kéz...\\
+Jobb kéz, bal kéz, jobb láb...\\
+Jobb kéz, bal kéz, jobb láb, bal láb...\\
+Jobb kéz, bal kéz, jobb láb, bal láb, fordulás...\\
+Jobb kéz, bal kéz, jobb láb, bal láb, fordulás, guggolás...\\
+Jobb kéz, bal kéz, jobb láb, bal láb, fordulás, guggolás, tapsolás...\\
+\endchorus
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{sand}
+\end{center}
+\fi
+\endsong
+
+
+\beginsong{\emoji{child} Father Abraham had many sons \\ \emoji{child} Ábrahámnak sok fia}[]
+\beginverse
+Father \[G]Abraham had many sons. \brk Many \[G]sons had Father \[D]Abraham.\\
+I am \[D7]one of them, and so are you \brk So \[D7]let's just praise the \[G]Lord!\\
+\endverse
+\beginchorus
+Right arm!\\
+Right arm, left arm!\\
+Right arm, left arm, right foot!\\
+Right arm, left arm, right foot, left foot!\\
+Right arm, left arm, right foot, left foot, chin up-chin-down!\\
+Right arm, left arm, right foot, left foot, chin up-chin-down, turn around!\\
+Right arm, left arm, right foot, left foot, chin up-chin-down, turn around, SIT DOWN!\\
+\endchorus
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{stars}
+\end{center}
+\fi
+\endsong
+
+\clearpage
+
+\beginsong{\emoji{church} Áldjad, én lelkem, a dicsőség erős királyát \\ \emoji{church} Praise to the Lord}[by={Lobe den HJ. Neander, ford: Csomasz Tóth Kálmán, dallam: Stralsund (1665)}]
+\beginverse
+\[G]Áldjad, \[D]én \[G]lelkem a \brk \[Bm]dicsőség \[C]erős ki\[D7]rá\[G]lyát!\\
+\[G]Őné\[D]ki \[G]mennyei \brk \[Bm]karokkal \[C]együtt zeng \[D7]há\[G]lát!\\
+\[G]Zúgó ha\[C]rang, \brk \[G]Ének és \[C]orgona\[D]hang,\\
+\[D7]Mind az ő \[C]szent nevét \[D7]áld\[G]ják!\\
+\endverse
+\beginverse
+^Áldjad ^Őt, ^mert az Úr \brk ^mindent oly ^szépen in^té^zett!\\
+^Sasszár^nyon ^hordozott, \brk ^vezérelt, ^bajodban ^vé^dett.\\
+^Nagy irgal^mát \brk ^Naponként ^tölti ki ^rád:\\
+^Áldását ^mindenben ^ér^zed.\\
+\endverse
+\beginverse
+^Áldjad ^Őt, ^mert csoda^képpen \brk meg^alkotott ^té^ged.\\
+^Elkí^sér ^utadon, \brk ^tőle van ^testi ép^sé^ged.\\
+^Sok baj kö^zött \brk ^Erőd volt ^és örö^möd:\\
+^Szárnyával ^takarva ^vé^dett.\\
+\endverse
+\beginverse
+^Áldjad ^Őt, ^mert az Úr \brk ^megáldja ^minden mun^ká^dat,\\
+^Hűsé^ge, ^mint az ég ^harmatja, \brk ^bőven rád ^á^rad.\\
+^Lásd: mit te^het \brk ^Jóságos ^Lelke ve^led,\\
+^És hited ^tőle mit ^vár^hat.\\
+\endverse
+\beginverse
+^Áldjad ^az ^Úr nevét, \brk ^Őt áldja ^minden én^ben^nem!\\
+^Őt áld^jad, ^lelkem és \brk ^Róla tégy ^hitvallást, ^nyel^vem!\\
+^El ne fe^ledd: \brk ^Napfényed ^Ő tene^ked!\\
+^Őt áldjad ^örökké! ^Á^men.\\
+\endverse
+\endsong
+
+
+\beginsong{\emoji{church} Praise to the Lord \\ \emoji{church} Áldjad, én lelkem, a dicsőség erős királyát}[by={Lobe den HJ. Neander, dallam: Stralsund (1665)}]
+\beginverse
+\[G]Praise to \[D]the \[G]Lord, \brk the Al\[Bm]mighty, the \[C]King of cre\[D7]a\[G]tion!\\
+\[G]O my \[D]soul, \[G]praise Him, \brk for \[Bm]He is thy \[C]health and sal\[D7]va\[G]tion!\\
+\[G]All ye who \[C]hear, \brk \[G]now to His \[C]temple draw \[D]near;\\
+\[D7]Praise Him in \[C]glad ado\[D7]ra\[G]tion.\\
+\endverse
+\beginverse
+^Praise to ^the ^Lord, who u^niquely \brk and ^splendidly ^made ^you\\
+^Gave you ^good ^health and strength \brk ^and in your ^daily walk ^led ^you\\
+^All of your ^need \brk ^God in his ^mercy would ^meet;\\
+^Under his ^wings he would ^shade ^you.\\
+\endverse
+\beginverse
+^Praise to ^the ^Lord, \brk O let ^all that is ^in me a^dore ^Him!\\
+^All that ^hath ^life and breath, \brk ^come now with ^praises be^fore ^Him.\\
+^Let the A^men \brk ^sound from His ^people a^gain,\\
+^Gladly for ^aye we a^dore ^Him.\\
+\endverse
+\endsong
+
+\clearpage
+
+\beginsong{\emoji{church} Az Úr csodásan működik}[by={William Cowper (1731-1800), ford: Maár Margit (1920)}]
+\beginverse
+Az \[Dm]Úr cso\[Gm]dásan \[A]műkö\[Dm]dik, \brk De útja \[C]rejtve \[F-A]van:\\
+Ten\[Dm]ger takarja \[C]lábnyo\[F]mát, \brk Sze\[Gm]lek szár\[C]nyán su\[A4-A]han.\\
+Mint \[B/Gm]titkos \[Am]bánya \[C]mélyi\[F]ben \brk For\[C]málja terve\[F-A]it,\\
+\[(Dm)]De \[A]biz\[(Dm)]tos \[Gm]kézzel \[A]hozza \[Dm]föl, \brk \[(D7)]Mi \[Gm]most még \[A7]rejtve \[(Dm)]itt.\\
+\endverse
+\beginverse
+Bölcs ^terve^it meg^érle^li, \brk Rügyet fa^kaszt az ^ág.\\
+S bár ^mit sem ígér ^bimba^ja, \brk Pom^pás lesz ^a vi^rág.\\
+Ki ^kétke^dőn bon^colja ^őt, \brk An^nak választ nem ^ád,\\
+^De ^a ^hí^vő e^lőtt az ^Úr \brk ^Meg^fejti ^önma^gát.\\
+\endverse
+\beginverse
+Ne ^félj te^hát, ki^csiny csa^pat, \brk Ha rád fel^leg bo^rul,\\
+Ke^gyelmet rejt, s be^lőle ^majd \brk Ál^dás e^sője ^hull!\\
+Bíz^zál az ^Úrban, ^rólad ^Ő \brk Meg ^nem feledke^zik,\\
+^Sor^sod ^sö^tétlő ^árnya ^közt \brk ^Szent ^arca ^rejte^zik!\\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{bud}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Mondd ki a dzsungel Királya? \\ \emoji{child} Who's the King of the jungle?}[by={Annie Spiers}]
+\beginverse
+\[G]Mondd ki a dzsungel Királya? (Huhu) \brk \[G]Ki az Úr a tenge\[D]ren? (Bambabambabam)\\
+\[G]Mondd ki az egész vi\[Em]lág Királya? \brk S \[C]ki a Kirá\[D]lyom ne\[G]kem?
+\endverse
+\beginverse
+Megmondom: ^Jé-É-Zé-U-S! Jézus! \brk ^Ő a királyom ne^kem,\\
+^Ő a Királya az ^egész világnak, \brk a ^dzsungelnek s a ^tenger^nek. (Bambabambabambabam)\\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{jungle}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Who's the King of the jungle? \\ \emoji{child} Mondd ki a dzsungel Királya?}[by={Annie Spiers}]
+\beginverse
+\[G]Who's the King of the jungle? \brk \[G]Who's the King of the \[D]sea?\\
+\[G]Who is the King of the \[Em]universe? \brk And \[C]who's the \[D]King of \[G]me?
+\endverse
+\beginverse
+I'll tell you ^J-E-S-U-S. (Yes!) \brk ^He's the King of the ^sea.\\
+^He's the King of the ^universe, \brk And ^He's the ^King of ^me!\\
+\endverse
+\endsong
+
+\beginsong{\emoji{child} Jézus szeret minden kicsi gyereket}[]
+\beginverse
+\[G]Jézus szeret minden kicsi gyereket, \brk \[A]Jézus szeret \[D]minden kicsi gyereket,\\
+\[G]Jézus szeret minden kicsi gyereket, \brk \[Am]Minden kicsi \[D7]gyermek jöhet \[G]hozzá!
+\endverse
+\beginverse
+^Egy kicsi, két kicsi, három kicsi gyereket, \brk ^Négy kicsi, öt kicsi, ^hat kicsi gyereket,\\
+^Hét kicsi, nyolc kicsi, kilenc kicsi gyereket, \brk ^Minden kicsi ^gyermek jöhet ^hozzá!\\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{friends}
+\end{center}
+\fi
+\endsong
+
+\beginsong{Bízom benned, Uram, Jézus}[by={Robert Lowry (1826-1899)}]
+\beginverse
+\[C]Bízom benned, Uram, \[Em]Jézus, \brk \[Dm]Benned bízom egye\[G]dül.\\
+\[C]Kit Te hű kegyelmed \[Em]hordoz, \brk az \[Dm]bizton \[G7]üdvö\[C]zül.
+\endverse
+\beginchorus
+\[F]Bízom benned, Uram, \[C]Jézus, \brk Te \[Dm]nagy kegyelmű, \[G7]drága, hű Meg\[C]váltó.\\
+\[F]Én bízom benned, Uram, \[C]Jézus, \brk I\[Dm]géd biz\[G7]tat re\[C]á.\\
+\endchorus
+\beginverse
+^Mint a pásztor gyenge ^bárányt, \brk ^úgy vezet folyvást ke^zed. \\
+^Annak, aki Rád te^kint csak, \brk csüg^gedni ^nem le^het.
+\endverse
+\beginverse
+^Gondot is viselsz Te ^rólam, \brk ^hordod minden terhe^met. \\
+^Hogyne bízna szívem ^abban, \brk ki ^engem ^így sze^ret.
+\endverse
+\beginverse
+^Bízom benned, Uram, ^Jézus, \brk ^add, hogy mindig így le^gyen. \\
+^Bízom benned, bármi ^érjen, \brk és ^bízzam ^szünte^len.
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{shepherd}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Engem szeret Jézusom \\ \emoji{child} Jesus Loves Me, This I Know}[]
+\beginverse
+\[G]Engem szeret Jézusom \brk \[C]Bibliámból \[G]jól tudom \\
+\[G]Mind övé a \[Em]kisgyermek \brk \[C]Erőt ád a \[D]gyöngék\[G]nek
+\endverse
+\beginchorus
+\[G]Úgy van, ő \[C]szeret, \brk \[G]Ő szeret \[D]nagyon \\
+\[G]Úgy van, ő \[C]szeret, \brk I\[G]géjé\[C]ből tu\[G]dom.\\
+\endchorus
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{jesus_children}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Jesus Loves Me, This I Know \\ \emoji{child} Engem szeret Jézusom}[]
+\beginverse
+\[G]Jesus loves me, this I know \brk \[C]for the Bible \[G]tells me so \\
+\[G]Little ones to \[Em]him belong \brk \[C]they are weak, but \[D]he is \[G]strong
+\endverse
+\beginchorus
+\[G]Yes, Jesus \[C]loves me! \brk \[G]Yes, Jesus \[D]loves me! \\
+\[G]Yes, Jesus \[C]loves me! \brk The \[G]Bible \[C]tells me \[G]so.\\
+\endchorus
+\beginverse
+^Jesus loves me he who died \brk ^heaven's gate to ^open wide. \\
+^He will wash a^way my sin, \brk ^let his little ^child come ^in.
+\endverse
+\beginverse
+^Jesus loves me, this I know, \brk ^as he loved so ^long ago, \\
+^taking children ^on his knee, \brk ^saying, "Let them ^come to ^me."
+\endverse
+\endsong
+
+\beginsong{\emoji{christmas-tree} Csillagfényes csöndes éjjel \\ \emoji{christmas-tree} Angels We Have Heard On High}[]
+\beginverse
+\[G]Csillagfényes \[D7]csöndes \[G]éjjel \brk \[G]Őrzi álmod \[D7]Betle\[G]hem,\\
+\[G]Ám a néma, \[D7]tiszta \[Em]égből \brk \[C]szózat csendül \[D7]hirte\[G]len.\\
+\lrep {\[G C Am D7 G C D]Glo}ria \[G]in ex\[Em]celsis \[C]De\[D]o. \rrep \rep{2}
+\endverse
+\beginverse
+^Angyalkórus ^hangja ^zengi: \brk ^Jézus Krisztus ^földre ^szállt! \\
+^Pásztor és bölcs, ^néki ^hódolj, \brk ^Térdre hullva ^őt i^mádd! \\
+\lrep ^Gloria ^in ex^celsis ^De^o. \rrep \rep{2}
+\endverse
+\beginverse
+^Istenünknek ^fönn a ^mennyben \brk ^Dicsőség és ^hódo^lat! \\
+^Emberek közt ^itt e ^földön \brk ^Békesség, jó^indu^lat \\
+\lrep ^Gloria ^in ex^celsis ^De^o. \rrep \rep{2}
+\endverse
+\endsong
+
+\beginsong{\emoji{christmas-tree} Angels We Have Heard On High \\ \emoji{christmas-tree} Csillagfényes csöndes éjjel}[]
+\beginverse
+\[G]Angels we \[D7]heard on \[G]high, \brk \[G]sweetly singing \[D7]o'er the \[G]plains\\
+\[G]And the mountains \[D7]in rep\[Em]ly, \brk \[C]echoing their \[D7]joyous \[G]strains\\
+\lrep {\[G C Am D7 G C D]Glo}ria \[G]in ex\[Em]celsis \[C]De\[D]o. \rrep \rep{2}
+\endverse
+\beginverse
+^Come to Bethle^hem and ^see, \brk ^Christ whose birth the ^angels ^sing \\
+^Come adore on ^bended ^knee, \brk ^Christ the Lord the ^newborn ^King \\
+\lrep ^Gloria ^in ex^celsis ^De^o. \rrep \rep{2}
+\endverse
+\beginverse
+^See Him in a ^manger ^laid, \brk ^whom the choirs of ^angels ^praise \\
+^Mary, Joseph, ^lend your ^aid, \brk ^while our hearts in ^love we ^raise \\
+\lrep ^Gloria ^in ex^celsis ^De^o. \rrep \rep{2}
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{angels}
+\end{center}
+\fi
+\endsong
+
+\beginsong{Eldőlt a szívemben \\ I have decided to follow Jesus}[by={Szundar Szing (1888-1929)}]
+\beginverse
+Eldőlt a \[C]szívemben, \brk követem Jézust, \\
+El\[C7]dőlt a \[F]szívemben, \brk követem \[C]Jézust, \\
+El\[Am]dőlt a \[Em]szívemben, \brk követem \[F7]Jézust, \\
+Nincs \[C]vissza\[Am]út, \brk nincs \[G]vissza\[C]út!
+\endverse
+\beginverse
+Mögöttem ^a világ, \brk előttem a kereszt \\
+Mö^göttem ^a világ, \brk előttem ^Jézus \\
+Mö^göttem ^a világ, \brk előttem ^a kereszt \\
+Nincs ^vissza^út, \brk nincs ^vissza^út!
+\endverse
+\beginverse
+Ha nincs is ^társam itt, \brk követem mégis őt \\
+Ha ^nincs is ^társam itt, \brk követem ^Jézust \\
+Ha ^nincs is ^társam itt, \brk követem ^mégis őt \\
+Nincs ^vissza^út, \brk nincs ^vissza^út!
+\endverse
+\endsong
+
+\beginsong{I have decided to follow Jesus \\ Eldőlt a szívemben}[by={Szundar Szing (1888-1929)}]
+\beginverse
+I have de\[C]cided \brk to follow Jesus \\
+I \[C7]have de\[F]cided \brk to follow \[C]Jesus \\
+I \[Am]have de\[Em]cided \brk to follow \[F7]Jesus \\
+No \[C]turning \[Am]back, \brk no \[G]turning \[C]back
+\endverse
+\beginverse
+The world be^hind me, \brk the cross before me \\
+The ^world be^hind me, \brk the cross be^fore me \\
+The ^world be^hind me, \brk the cross be^fore me \\
+No ^turning ^back, \brk no ^turning ^back
+\endverse
+\beginverse
+Though none go ^with me, \brk still I will follow \\
+Though ^none go ^with me, \brk still I will ^follow \\
+Though ^none go ^with me, \brk still I will ^follow \\
+No ^turning ^back, \brk no ^turning ^back
+\endverse
+\beginverse
+My cross I'll ^carry, \brk till I see Jesus \\
+My ^cross I'll ^carry, \brk till I see ^Jesus \\
+My ^cross I'll ^carry, \brk till I see ^Jesus \\
+No ^turning ^back, \brk no ^turning ^back
+\endverse
+\beginverse
+Will you de^cide now \brk to follow Jesus? \\
+Will ^you de^cide now \brk to follow ^Jesus? \\
+Will ^you de^cide now \brk to follow ^Jesus? \\
+No ^turning ^back, \brk no ^turning ^back
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{hiking}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{church} Hadd látlak Téged \\ \emoji{church} Be thou my vision}[by={Dallán Forgaill, Irish origin}]
+\beginverse
+\[E]Hadd látlak \[C#m]téged, \brk mint \[A]szívem U\[E]rát, \\
+\[H]Rajtad kívül nekem \brk \[A]nem számít \[H]más! \\
+\[C#m]Elmémben \[A]ott jársz, \brk ha \[E]nap jön vagy {\[A H]éj,} \\
+\[E]Te őrzöd \[C#m]álmom, \brk éb\[A]ren is kí\[E]sérsz.
+\endverse
+\beginverse
+^Tégy engem ^bölccsé, \brk légy ^igaz I^gém,\\
+^Én mindig veled \brk és ^Te velem ^légy, \\
+^Te jó a^pám \brk és én ^hű gyerme^ked, \\
+^Élj bennem ^mindig, \brk és ^én Teben^ned.
+\endverse
+\beginverse
+^Légy az én ^pajzsom \brk és ^légy fegyve^rem,\\
+^Méltóságom Te vagy \brk ^és örö^mem \\
+^Lelkem ol^talma \brk és ^fellegvá^ra, \\
+^Menny felé ^vigyél, \brk e^rőm forrá^sa.
+\endverse
+\beginverse
+^Nem vágyom ^kincsre, \brk sem ^dicséret^re,\\
+^Te vagy a jutalmam \brk ^mindörök^re, \\
+^Te légy az ^első \brk és ^az egyet^len, \\
+^Királyi ^felség, \brk én ^drága kin^csem.
+\endverse
+\beginverse
+^Győztes Ki^rályom, \brk meg^nyerted csa^tám,\\
+^Mennyei öröm \brk és ^tündöklés ^vár, \\
+^Szívem sze^relme, \brk jöj^jön bármi ^már, \\
+^Hadd látlak ^Téged, \brk mint ^minden U^rát.
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{castle}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{church} Be thou my vision \\ \emoji{church} Hadd látlak Téged}[by={Dallán Forgaill, Irish origin}]
+\beginverse
+\[E]Be Thou my \[C#m]vision, \brk O \[A]Lord of my \[E]heart \\
+\[H]Naught be all else to me, \brk \[A]save that Thou \[H]art \\
+\[C#m]Thou my best \[A]thought, \brk by \[E]day or by {\[A H]night} \\
+\[E]Waking or \[C#m]sleeping, \brk Thy \[A]presence my \[E]light.
+\endverse
+\beginverse
+^Be Thou my ^wisdom, \brk and ^Thou my true ^word \\
+^I ever with Thee, \brk and ^Thou with me, ^Lord \\
+^Thou my great ^Father, \brk and ^I Thy true ^son \\
+^Thou in me ^dwelling \brk and ^I with Thee ^one
+\endverse
+\beginverse
+^Be Thou my ^battle Shield, \brk ^Sword for the ^fight \\
+^Be Thou my Armor, \brk and ^be Thou my ^Light \\
+^Thou my soul's ^Shelter, \brk ^Thou my high ^Tow'r \\
+^Raise Thou me ^heav'nward, \brk O ^Pow'r of my ^pow'r
+\endverse
+\beginverse
+^Riches I ^heed not, \brk nor ^man's empty ^praise \\
+^Thou mine Inheritance, \brk ^now and al^ways \\
+^Thou and Thou ^only, \brk ^first in my ^heart \\
+^High King of ^Heaven, \brk my ^Treasure Thou ^art
+\endverse
+\beginverse
+^High King of ^Heaven, \brk my ^victory ^won \\
+^May I reach Heaven's joys, \brk ^O bright Heav'n's ^Sun! \\
+^Heart of my ^own heart, \brk what^ever be^fall \\
+^Still be my ^Vision, \brk O ^Ruler of ^all
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{shield}
+\end{center}
+\fi
+\endsong
+
+\beginsong{Hajnalórán lelkem ébred}[]
+\beginverse
+\[E]Hajnalórán lelkem ébred \brk \[D]szent szavad ha \[E]hallgatom, \\
+\[E]Jöjj be hozzám, lásd, kitárom \brk \[D]minden ajtóm, \[E]ablakom! \\
+\[E]Mesterem, ta\[D]níts a csendben \brk \[D]szótlan\[E]ul meg\[D]álla\[E]nom! \\
+\endverse
+\beginverse
+^Hajnalórán zengi minden \brk ^végtelen ha^talmadat, \\
+^Mesterem, taníts beszélni, \brk ^gyönge számba ^add szavad! \\
+^Hadd siessek ^hozzád hívni \brk ^mind a ^megfá^radta^kat! \\
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{sunrise}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Halld, halld, Jézus szeret engem \\ \emoji{child} Jesus Loves the Little Children}[by={Lyrics by: Clare Herbert Woolston, Tune by: George Frederick Root}]
+\transpose{-3}
+\beginverse
+\[G]Halld, halld, Jézus szeret engem, \brk \[D]Minden gyermeket szeret, \\
+\[G]Sárga fehér fekete, \brk \[C]Mind kedvesek \[G]előtte, \\
+\[D]Kisgyermekek, \brk  Jézus szeret tite\[G]ket!
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{children}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Jesus Loves the Little Children \\ \emoji{child} Halld, halld, Jézus szeret engem}[by={Lyrics by: Clare Herbert Woolston, Tune by: George Frederick Root}]
+\transpose{-3}
+\beginverse
+\[G]Jesus loves the little children \brk \[C]All the children of the \[D]world \\
+\[G]Red and yellow, black and white \brk \[C]They are precious \[G]in His sight \\
+\[G]Jesus loves the \brk \[C]little children \[D]of the \[G]world
+\endverse
+\beginverse
+^Jesus died for all the children \brk ^All the children of the ^world \\
+^Red and yellow, black and white \brk ^They are precious ^in His sight \\
+^Jesus loves the \brk ^little children ^of the ^world
+\endverse
+\endsong
+
+\beginsong{\emoji{child} Isten szeret minden gyermeket}[]
+\beginchorus
+\[G]Isten szeret minden \[D]gyerme\[G]ket, \brk Minden \[Am]gyermeket a \[G]föld szí\[D]nén, \\
+\[G]És Ő tudja a ne\[Em]vünket, \brk \[C]Néven szólít \[D]minket, \\
+\[G]Ott vagyunk az \[C]Ő \[D]szí\[G]vén.
+\endchorus
+\beginverse
+Engem \[G]úgy hívnak, hogy \[Em]eszkimó, \brk És \[C]jégház\[D]ban la\[G]kom, \\
+Ha \[C]csing-ling arra fut egy szán, \brk Az \[Am]orrom kidu\[D]gom.
+\endverse
+\beginverse
+Két ^hosszú copfot ^hordok én, \brk És ^csúcsos ^kala^pot, \\
+A ^bőröm sárga, mint a réz, \brk De ^mégis szép va^gyok!
+\endverse
+\beginverse
+Szép ^tollas dísz a ^fejemen, \brk A ^bőröm, ^mint a ^réz. \\
+Moka^zinban járok vigyázva, \brk Szívem ^bátor és me^rész!
+\endverse
+\beginverse
+Az ^én hazám az ^Afrika, \brk Hol ^nincsen ^hó se ^dér, \\
+A ^bőröm sötét, mint az éj, \brk De a ^fogam hófe^hér!
+\endverse
+\beginverse
+Kis ^cigány gyermek ^vagyok én, \brk És ^Nyírség^ben la^kom. \\
+A ^Mennyországba igyekszem, \brk Ott ^vár rám Jézu^som!
+\endverse
+\beginverse
+Pesten ^élek egy nagy ^bérházban, \brk Hol ^minden ^csupa ^kő. \\
+De ^mindent lát és mindent tud \brk Rólam ^az Üdvözí^tő!
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.2\textwidth]{eskimo}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Jézus szeret minden kicsi gyereket}[]
+\beginverse
+\[G]Jézus szeret \brk minden kicsi gyereket \\
+\[D]Jézus szeret \brk minden kicsi gyereket \\
+\[G]Jézus szeret \brk \[Em]minden kicsi gyereket, \\
+\[C]Minden kicsi \brk \[D]gyerek jöhet \[G]hozzá.
+\endverse
+\beginverse
+^Egy kicsi, két kicsi, \brk három kicsi gyereket, \\
+^négy kicsi, öt kicsi, \brk hat kicsi gyereket, \\
+^hét kicsi, nyolc kicsi, \brk ^kilenc kicsi gyereket, \\
+^Minden kicsi \brk ^gyerek jöhet ^hozzá.
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{numbers}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{church} Mi tisztít meg bűnömtől? \\ \emoji{church} What can wash away my sin?}[]
+\beginverse
+\[E]Mi tisztít meg \[C#m]bűnömtől? \brk \[A]Csak a bárány Jézus \[H]vé\[A]re! \\
+\[E]Hol gyógyulok \[C#m]meg ebből? \brk \[A]Jézusomnak sebe\[H]i\[A]ben.
+\endverse
+\beginchorus
+\[E]Ó drága \[C#m]ez az ár, \brk \[A]itt jóvá lesz a \[H]kár. \\
+\[E]Itt megnyug\[C#m]szik lelkem, \brk \[E]A bárány Jé\[A]zus vé\[H]ré\[E]ben.
+\endchorus
+\beginverse
+^Mi tesz vétkem^től menté? \brk ^Csak a bárány Jézus ^vé^re! \\
+^Az Atyánál ^kedvessé, \brk ^Csak a bárány Jézus ^vé^re!
+\endverse
+\beginverse
+^Mi békít Is^tennel meg? \brk ^Csak a bárány Jézus ^vé^re! \\
+^Mi ment a nyo^morból meg? \brk ^Csak a bárány Jézus ^vé^re!
+\endverse
+\beginverse
+^Mi tehet ro^sszat jóvá? \brk ^Csak a bárány Jézus ^vé^re! \\
+^Isten előtt ^igazzá? \brk ^Csak a bárány Jézus ^vé^re!
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{clean}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{church} What can wash away my sin? \\ \emoji{church} Mi tisztít meg bűnömtől?}[]
+\beginverse
+\[E]What can wash a\[C#m]way my sin? \brk \[A]Nothing but the blood of \[H]Je\[A]sus. \\
+\[E]What can make me \[C#m]whole again? \brk \[A]Nothing but the blood of \[H]Je\[A]sus.
+\endverse
+\beginchorus
+\[E]Oh, precious \[C#m]is the flow, \brk \[A]That makes me white as \[H]snow; \\
+\[E]No other \[C#m]fount I know, \brk \[E]Nothing but the \[A]blood of \[H]Je\[A]sus.
+\endchorus
+\beginverse
+^For my cleansing ^this I see— \brk ^Nothing but the blood of ^Je^sus! \\
+^For my pardon this my plea— \brk ^Nothing but the blood of ^Je^sus!
+\endverse
+\beginverse
+^Nothing can my ^sin erase \brk ^Nothing but the blood of ^Je^sus! \\
+^Naught of works, 'tis ^all of grace— \brk ^Nothing but the blood of ^Je^sus!
+\endverse
+\beginverse
+^This is all my ^hope and peace— \brk ^Nothing but the blood of ^Je^sus! \\
+^This is all my ^righteousness— \brk ^Nothing but the blood of ^Je^sus!
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{river}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} Olyan örömöt, mint a forrás \\ \emoji{child} I've got peace like a river}[]
+\beginverse
+Olyan \[G]örömöt, mint a forrás, \brk Olyan \[C]örömöt, mint a \[G]forrás, \\
+Olyan \[G]örömöt kaptam \brk \[Em]tőled, Iste\[Am]nem. \[D7] \\
+Olyan \[G]örömöt, mint a forrás, \brk Olyan \[C]örömöt, mint a \[G]forrás, \\
+Olyan \[Em]örömöt kaptam \brk \[Am]tőled, Iste\[D7]nem. \[G]
+\endverse
+\beginverse
+Olyan ^békét, mint a folyó, \brk Olyan ^békét, mint a ^folyó, \\
+Olyan ^békét kaptam \brk ^tőled, Iste^nem. ^ \\
+Olyan ^békét, mint a folyó, \brk Olyan ^békét, mint a ^folyó, \\
+Olyan ^békét kaptam \brk ^tőled, Iste^nem. ^
+\endverse
+\beginverse
+Olyan ^szeretetet, mint a tenger, \brk Olyan ^szeretetet, mint a ^tenger, \\
+Olyan ^szeretetet kaptam \brk ^tőled, Iste^nem. ^ \\
+Olyan ^szeretetet, mint a tenger, \brk Olyan ^szeretetet, mint a ^tenger, \\
+Olyan ^szeretetet kaptam \brk ^tőled, Iste^nem. ^
+\endverse
+\beginverse
+Olyan ^hitet, mint a szikla, \brk Olyan ^hitet, mint a ^szikla, \\
+Olyan ^hitet kaptam \brk ^tőled, Iste^nem. ^ \\
+Olyan ^hitet, mint a szikla, \brk Olyan ^hitet, mint a ^szikla, \\
+Olyan ^hitet kaptam \brk ^tőled, Iste^nem. ^
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{fountain}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{child} I've got peace like a river \\ \emoji{child} Olyan örömöt, mint a forrás}[]
+\beginverse
+I've got \[G]peace like a river, \brk I've got \[C]peace like a \[G]river, \\
+I've got \[G]peace like a \brk \[Em]river in my \[Am]soul. \[D7] \\
+I've got \[G]peace like a river, \brk I've got \[C]peace like a \[G]river, \\
+I've got \[Em]peace like a \brk \[Am]river in my \[D7]soul. \[G]
+\endverse
+\beginverse
+I've got ^joy like a fountain, \brk I've got ^joy like a ^fountain, \\
+I've got ^joy like a \brk ^fountain in my ^soul. ^ \\
+I've got ^joy like a fountain, \brk I've got ^joy like a ^fountain, \\
+I've got ^joy like a \brk ^fountain in my ^soul. ^
+\endverse
+\beginverse
+I've got ^love like an ocean, \brk I've got ^love like an ^ocean, \\
+I've got ^love like an \brk ^ocean in my ^soul. ^ \\
+I've got ^love like an ocean, \brk I've got ^love like an ^ocean, \\
+I've got ^love like an \brk ^ocean in my ^soul. ^
+\endverse
+\endsong
+
+\beginsong{\emoji{christmas-tree} Ó jöjj, ó jöjj Immánuel \\ \emoji{christmas-tree} O come, O come, Emmanuel}[]
+\beginverse
+Ó \[Am]jöjj, ó jöjj, Im{\[G Em]má}nu\[Am]el \brk Csak \[C]Téged áhít {\[Dm G]Iz}rá\[Am]el \\
+És \[Dm]hozzád sóhajt {\[C Em]un}ta\[G]lan \brk Mert \[Am]Isten híján {\[Dm G]hon}ta\[Am]lan. \\
+Meg\[G]lásd, meg\[Am]lásd, ó, {\[Dm G]Iz}rá\[Am]el, \brk Hogy \[C]eljövend Im{\[Dm Em]má}nu\[Am]el!
+\endverse
+\beginverse
+Ó, ^jöjj el Jesse ^vessze^je, \brk És ^állj a rossznak ^elle^ne! \\
+A ^mélyből, mely már ^elte^met, \brk S a ^tűzből mentsd ki ^népe^det! \\
+Meg^lásd, meg^lásd, ó, ^Izra^el, \brk Hogy ^eljövend Im^mánu^el!
+\endverse
+\beginverse
+Ó, ^jöjj, ó, jöjj el ^Napke^let! \brk Ím ^árva néped ^költö^get: \\
+Törd ^át a sűrű ^éj kö^dét, \brk És ^oszlasd gyászát ^szerte^szét! \\
+Meg^lásd, meg^lásd, ó, ^Izra^el, \brk Hogy ^eljövend Im^mánu^el!
+\endverse
+\beginverse
+Ó, ^jöjj, királyi ^Sarja^dék! \brk Az ^üdvöt néped ^várja ^rég. \\
+A ^menny honába ^tárj u^tat, \brk Ne ^legyen része ^kárho^zat! \\
+Meg^lásd, meg^lásd, ó, ^Izra^el, \brk Hogy ^eljövend Im^mánu^el!
+\endverse
+\beginverse
+Ó, ^jöjj, ó, jöjj el, ^nagy Ki^rály, \brk Ki ^Sina-hegyrõl ^szólot^tál, \\
+Hogy ^törvényt lássál ^népe^den! \brk Jöjj ^fenségednek ^telji^ben! \\
+Meg^lásd, meg^lásd, ó, ^Izra^el, \brk Hogy ^eljövend Im^mánu^el!
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.3\textwidth]{jesus_donkey}
+\end{center}
+\fi
+\endsong
+
+\beginsong{\emoji{christmas-tree} O come, O come, Emmanuel \\ \emoji{christmas-tree} Ó jöjj, ó jöjj Immánuel}[]
+\beginverse
+O \[Am]come, O come, Em{\[G Em]ma}nu\[Am]el \brk And \[C]ransom captive {\[Dm G]Is}ra\[Am]el \\
+That \[Dm]mourns in lonely {\[C Em]e}xile \[G]here \brk Un\[Am]til the Son of {\[Dm G]God} ap\[Am]pear \\
+Re\[G]joice! Re\[Am]joice! Em{\[Dm G]ma}nu\[Am]el \brk Shall \[C]come to thee, O {\[Dm Em]Is}ra\[Am]el.
+\endverse
+\beginverse
+O ^come, Thou Rod of ^Jesse, ^free \brk Thine ^own from Satan's ^tyran^ny \\
+From ^depths of Hell ^Thy people ^save \brk And ^give them victory ^o'er the ^grave \\
+Re^joice! Re^joice! Em^manu^el \brk Shall ^come to thee, O ^Isra^el.
+\endverse
+\beginverse
+O ^come, Thou Day-Spring, ^come and ^cheer \brk Our ^spirits by Thine ^advent ^here \\
+Di^sperse the gloomy ^clouds of ^night \brk And ^death's dark shadows ^put to ^flight. \\
+Re^joice! Re^joice! Em^manu^el \brk Shall ^come to thee, O ^Isra^el.
+\endverse
+\beginverse
+O ^come, Thou Key of ^David, ^come, \brk And ^open wide our ^heavenly ^home; \\
+Make ^safe the way that ^leads on ^high, \brk And ^close the path to ^mise^ry. \\
+Re^joice! Re^joice! Em^manu^el \brk Shall ^come to thee, O ^Isra^el.
+\endverse
+\beginverse
+O ^come, O come, Thou ^Lord of ^might, \brk Who ^to Thy tribes, on ^Sinai's ^height, \\
+In ^ancient times did'st ^give the ^Law, \brk In ^cloud, and majes^ty and ^awe. \\
+Re^joice! Re^joice! Em^manu^el \brk Shall ^come to thee, O ^Isra^el.
+\endverse
+\endsong
+
+\beginsong{\emoji{child} Baby Beluga}[by={Lyrics and tune by: Raffi}]
+\beginverse
+\[D]Baby Beluga in the \brk deep blue sea \\
+Swim so wild and you \brk \[A7]swim so free \\
+Heaven above and \brk the sea below \\
+And a \[G]little white \brk \[A7]whale on the \[D]go
+\endverse
+\beginchorus
+\[G]Baby Beluga, \[D]baby Beluga, \brk \[E7]is the water warm? \\
+Is your mama home with \[A7]you \[G]so \[A7]happy?
+\endchorus
+\beginverse
+^Way down yonder where \brk the dolphins play \\
+Where you dive \brk and ^splash all day \\
+Waves roll in and \brk the waves roll out \\
+See the ^water squirting \brk ^out of your ^spout
+\endverse
+\beginchorus
+\[G]Baby Beluga, oh, \[D]baby Beluga, \brk \[E7]sing your little song \\
+Sing for all your friends, \brk we'll \[A7]like \[G]to \[A7]hear you
+\endchorus
+\beginverse
+^When it's dark \brk you're home and fed \\
+Curl up snug in your \brk ^water bed \\
+Moon is shining and \brk the stars are out \\
+Good ^night, little ^whale, \brk good^night
+\endverse
+\beginchorus
+\[G]Baby Beluga, oh, \[D]baby Beluga, \brk \[E7]with tomorrow's sun \\
+Another day's begun, \brk you'll \[A7]soon \[G]be \[A7]waking
+\endchorus
+\beginverse
+^Baby Beluga in the \brk deep blue sea \\
+Swim so wild and you \brk ^swim so free \\
+Heaven above and \brk the sea below \\
+And a ^little white \brk ^whale on the ^go \\
+You're just a \[A7]little \[G]white \[A7]whale on the \[D]go  
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{beluga}
+\end{center}
+\fi
+\endsong
+
+
+\beginsong{\emoji{child} Rejoice in the Lord always}[]
+\beginverse
+Re\[G]joice in the Lord always \\
+And a\[D7]gain I say re\[G]joice \rep{2}
+\endverse
+\beginchorus
+Re\[G]joice, rejoice, \brk and a\[D7]gain I say re\[G]joice \rep{2}
+\endchorus
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{rejoice}
+\end{center}
+\fi
+\endsong
+
+
+\beginsong{\emoji{child} Tudod, van egy barátom, Jézus}[]
+\beginverse
+Tudod, \[E]van egy barátom: \[A]Jé\[E]zus, \\
+Vele \[E]mindent megbe\[A]szélhe\[H]tek. \\
+Tudod, \[E]van egy barátom: \[A]Jé\[E]zus, \\
+Ő \[E]megvígasztalja \[A]szí\[H]ve\[E]met.
+\endverse
+\beginchorus
+És ha \[F#m]elrontottam \[H]valamit, \\
+És ha \[F#m]elhibáztam \[H]százszor, \\
+Mindig \[F#m]meghallgatta \[H]panaszom, \\
+És egy \[F#m]új reményt a{\[H7 H]dott}.
+\endchorus
+\beginverse
+Tudod, \[E]van egy barátom: \[A]Jé\[E]zus!
+\endverse
+\endsong
+
+
+\beginsong{\emoji{church} Ó, mily hű barátunk Jézus \\ \emoji{church} What a friend we have in Jesus}[by={Szöveg: Joseph Medlicott Scrivenm, Dallam: Charles Crozat Converse}]
+\capo{4}
+\beginverse
+\[G]Ó, mily hű barátunk \[C]Jézus, \brk \[G]minden bajban megse\[D]gít, \\
+\[G]Mily jó elé imád\[C]ságban \brk \[G]vinni \[D]éltünk ügye\[G]it. \\
+\[Am]Gyakran nyugtalan a \[G]lelkünk, \brk \[C]téve\[G]sek az útja\[D]ink, \\
+\[G]Mert nem vittük hő i\[C]mában \brk \[G]Isten \[D]elé dolga\[G]ink.
+\endverse
+\beginverse
+^Jönnek próbák, kísér^tések, \brk ^nincsen örömcsilla^god? \\
+^El ne csüggedj ily ó^rában, \brk ^lépj az ^Úr elé le^gott! \\
+^Ha legnagyobb az ín^séged, \brk ^van se^gítőd, mit se ^félj! \\
+^Hozd az Úrhoz imád^ságban, \brk ^bármi ^kínoz, higgy, re^mélj!
+\endverse
+\beginverse
+^Fáradt vagy és megter^helve \brk ^jól esnék az enyhü^lés? \\
+^Fáradtak ereje ^Jézus, \brk ^Hozzá ^jönni, ó, ne ^késs! \\
+^Elhagyatva élsz e ^földön? \brk ^Tedd rá ^det, \\
+^És hozd mindig biza^lommal \brk ^az Úr ^elé ügye^det.
+\endverse
+\ifchorded\else
+\begin{center}
+\includegraphics[width=0.4\textwidth]{praying-child}
+\end{center}
+\fi
+\endsong
+
+
+\beginsong{\emoji{church} What a friend we have in Jesus \\ \emoji{church} Ó, mily hű barátunk Jézus}[by={Szöveg: Joseph Medlicott Scrivenm, Dallam: Charles Crozat Converse}]
+\capo{4}
+\beginverse
+\[G]What a friend we have in \[C]Jesus, \brk \[G]All our sins and griefs to \[D]bear! \\
+\[G]What a privilege to \[C]carry \brk \[G]Every\[D]thing to God in \[G]prayer \\
+\[Am]Oh, what peace we often \[G]forfeit, \brk \[C]Oh, what \[G]needless pain we \[D]bear \\
+\[G]all because we do not \[C]carry \brk \[G]every\[D]thing to God in \[G]prayer.
+\endverse
+\beginverse
+^Have we trials and temp^tations? \brk ^Is there trouble any^where? \\
+^We should never be dis^couraged, \brk ^Take it ^to the Lord in ^prayer. \\
+^Can we find a friend so ^faithful? \brk ^Who will ^all our sorrows ^share? \\
+^Jesus knows our every ^weakness, \brk ^Take it ^to the Lord in ^prayer.
+\endverse
+\beginverse
+^Are we weak and heavy ^laden, \brk ^Cumbered with a load of ^care? \\
+^Precious Savior, still our ^refuge \brk ^Take it ^to the Lord in ^prayer. \\
+^Do thy friends despise for^sake thee? \brk ^Take it ^to the Lord in ^prayer. \\
+^In His arms He'll take and ^shield thee, \brk ^Thou wilt ^find a solace ^there.
+\endverse
+\endsong
