@@ -1,20 +1,20 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.12.11)  4 JAN 2024 23:31
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.6.3)  14 JUL 2024 07:21
  restricted system commands enabled.
 **chords.tex
 (./chords.tex
-LaTeX2e <2023-06-01>
-L3 programming layer <2023-06-05>
-Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
-Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
 luaotfload | conf : Root cache directory is "/home/vszabo/.texlive2023/texmf-var
 /luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2022-
-10-03.lua".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.120
+luaotfload | init : Context OpenType loader version 3.133
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
@@ -46,14 +46,14 @@ Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/vszabo/.texlive2023/texm
 f-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen139
@@ -65,32 +65,32 @@ Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
  (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-06-05 L3 programming layer (loader) 
+Package: expl3 2024-01-22 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count191
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count193
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box51
 ))
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count192
-\l__fontspec_language_int=\count193
-\l__fontspec_strnum_int=\count194
-\l__fontspec_tmp_int=\count195
-\l__fontspec_tmpa_int=\count196
-\l__fontspec_tmpb_int=\count197
-\l__fontspec_tmpc_int=\count198
-\l__fontspec_em_int=\count199
-\l__fontspec_emdef_int=\count266
-\l__fontspec_strong_int=\count267
-\l__fontspec_strongdef_int=\count268
+\l__fontspec_script_int=\count194
+\l__fontspec_language_int=\count195
+\l__fontspec_strnum_int=\count196
+\l__fontspec_tmp_int=\count197
+\l__fontspec_tmpa_int=\count198
+\l__fontspec_tmpb_int=\count199
+\l__fontspec_tmpc_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
 \l__fontspec_tmpa_dim=\dimen140
 \l__fontspec_tmpb_dim=\dimen141
 \l__fontspec_tmpc_dim=\dimen142
@@ -116,8 +116,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \SB@boxii=\box53
 \SB@boxiii=\box54
 \SB@toks=\toks17
-\SB@cnt=\count269
-\SB@cntii=\count270
+\SB@cnt=\count271
+\SB@cntii=\count272
 \SB@skip=\skip50
 \SB@envbox=\box55
 
@@ -125,8 +125,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-\c@songnum=\count271
-\c@versenum=\count272
+\c@songnum=\count273
+\c@versenum=\count274
 \versesep=\skip51
 \afterpreludeskip=\skip52
 \beforepostludeskip=\skip53
@@ -136,31 +136,31 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \versenumwidth=\skip57
 \cbarwidth=\skip58
 \sbarheight=\skip59
-\vvpenalty=\count273
-\ccpenalty=\count274
-\vcpenalty=\count275
-\cvpenalty=\count276
-\brkpenalty=\count277
-\spenalty=\count278
-\minfrets=\count279
+\vvpenalty=\count275
+\ccpenalty=\count276
+\vcpenalty=\count277
+\cvpenalty=\count278
+\brkpenalty=\count279
+\spenalty=\count280
+\minfrets=\count281
 \SB@colwidth=\dimen147
 \SB@songbox=\box56
-\SB@numcols=\count280
-\SB@colnum=\count281
+\SB@numcols=\count282
+\SB@colnum=\count283
 \SB@colbox=\box57
 \SB@pgbox=\box58
 \SB@mrkbox=\box59
-\SB@groupcnt=\count282
+\SB@groupcnt=\count284
 \SB@titlelist=\toks19
 \SB@titletail=\toks20
 \SB@parindent=\dimen148
 \SB@chorusbox=\box60
 \SB@cmarkclass=\marks4
 \SB@nocmarkclass=\marks5
-\SB@grouplvl=\count283
-\SB@transposefactor=\count284
+\SB@grouplvl=\count285
+\SB@transposefactor=\count286
 \SB@lyric=\toks21
-\SB@numhyps=\count285
+\SB@numhyps=\count287
 \SB@lyricnohyp=\toks22
 \SB@lyricbox=\box61
 \SB@chordbox=\box62
@@ -168,7 +168,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \SB@ctail=\toks24
 \SB@fretwidth=\skip60
 \SB@tabindent=\dimen149
-\c@SB@songsnum=\count286
+\c@SB@songsnum=\count288
 \SB@songwrites=\box63
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3786.
@@ -312,16 +312,16 @@ fBuzz].
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count289
 \scratchdimen=\dimen152
 \scratchbox=\box64
-\nofMPsegments=\count288
-\nofMParguments=\count289
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count290
+\MPscratchCnt=\count292
 \MPscratchDim=\dimen153
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -341,24 +341,32 @@ Package luatex.def Info: ./images/guitar.jpeg  used on input line 24.
 (./toc.sbx
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/m/sl' undefined
-(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 5.
+(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 2.
 
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./images/guitar.jpeg>]
-[2</tmp/lua_X7A3WZ></tmp/lua_ZXyuGA></tmp/lua_6XSymn>]
+[2</tmp/lua_x5IAEz></tmp/lua_pXQfza>]
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/bx/n' undefined
 (Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 33.
 
 [3
 
-</tmp/lua_KjRIfZ>] (./songs.sbd [4] [5]) [6]
+</tmp/lua_UGpXsv>] (./songs.sbd [4] [5
+
+] [6
+
+] [7
+
+] [8] [9] [10</tmp/lua_HNJksO>] [11] [12] [13] [14] [15] [16] [17] [18] [19] [2
+0] [21] [22] [23]) [24]
 \openout3 = toc.sxd
- (./chords.sxc) (./chords.aux)
+
+(./chords.sxc) (./chords.aux)
  ***********
-LaTeX2e <2023-06-01>
-L3 programming layer <2023-06-05>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
  ***********
 
 
@@ -367,27 +375,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 9424 strings out of 478043
- 100000,1977958 words of node,token memory allocated
- 21920 words of node memory still in use:
-   322 hlist, 81 vlist, 18 rule, 23 disc, 42 local_par, 697 glue, 241 kern, 120 
-penalty, 1285 glyph, 444 attribute, 60 glue_spec, 444 attribute_list, 5 write, 2
- pdf_literal, 6 pdf_colorstack nodes
-   avail lists: 2:1896,3:396,4:66,5:820,6:110,7:5705,8:2,9:1592,10:12,11:127
- 29871 multiletter control sequences out of 65536+600000
+ 9444 strings out of 476553
+ 156268,1977958 words of node,token memory allocated
+ 17936 words of node memory still in use:
+   325 hlist, 92 vlist, 32 rule, 43 disc, 34 local_par, 516 glue, 211 kern, 74 p
+enalty, 901 glyph, 396 attribute, 60 glue_spec, 396 attribute_list, 8 write, 12 
+pdf_colorstack nodes
+   avail lists: 2:3270,3:649,4:78,5:1896,6:182,7:10235,8:2,9:3058,10:15,11:224
+ 31381 multiletter control sequences out of 65536+600000
  52 fonts using 8765359 bytes
- 109i,6n,115p,352b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman5-bold.otf></usr/share/texmf/f
-onts/opentype/public/lm/lmsans12-oblique.otf></usr/share/texmf/fonts/opentype/pu
-blic/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans1
-0-oblique.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf></usr
-/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on chords.pdf (6 pages, 177762 bytes).
+ 109i,6n,115p,352b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
+f/fonts/opentype/public/lm/lmroman5-bold.otf></usr/share/texmf/fonts/opentype/pu
+blic/lm/lmsans12-oblique.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
+0-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-oblique.otf></
+usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf></usr/share/texmf/fon
+ts/opentype/public/lm/lmroman17-regular.otf></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on chords.pdf (24 pages, 236046 bytes).
 
-PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+PDF statistics: 151 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,20 +1,20 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.12.11)  4 JAN 2024 23:31
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.6.3)  14 JUL 2024 07:21
  restricted system commands enabled.
 **lyrics.tex
 (./lyrics.tex
-LaTeX2e <2023-06-01>
-L3 programming layer <2023-06-05>
-Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
-Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
 luaotfload | conf : Root cache directory is "/home/vszabo/.texlive2023/texmf-var
 /luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2022-
-10-03.lua".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.120
+luaotfload | init : Context OpenType loader version 3.133
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
@@ -46,14 +46,14 @@ Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/vszabo/.texlive2023/texm
 f-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen139
@@ -65,32 +65,32 @@ Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
  (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-06-05 L3 programming layer (loader) 
+Package: expl3 2024-01-22 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count191
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count193
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box51
 ))
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count192
-\l__fontspec_language_int=\count193
-\l__fontspec_strnum_int=\count194
-\l__fontspec_tmp_int=\count195
-\l__fontspec_tmpa_int=\count196
-\l__fontspec_tmpb_int=\count197
-\l__fontspec_tmpc_int=\count198
-\l__fontspec_em_int=\count199
-\l__fontspec_emdef_int=\count266
-\l__fontspec_strong_int=\count267
-\l__fontspec_strongdef_int=\count268
+\l__fontspec_script_int=\count194
+\l__fontspec_language_int=\count195
+\l__fontspec_strnum_int=\count196
+\l__fontspec_tmp_int=\count197
+\l__fontspec_tmpa_int=\count198
+\l__fontspec_tmpb_int=\count199
+\l__fontspec_tmpc_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
 \l__fontspec_tmpa_dim=\dimen140
 \l__fontspec_tmpb_dim=\dimen141
 \l__fontspec_tmpc_dim=\dimen142
@@ -116,8 +116,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \SB@boxii=\box53
 \SB@boxiii=\box54
 \SB@toks=\toks17
-\SB@cnt=\count269
-\SB@cntii=\count270
+\SB@cnt=\count271
+\SB@cntii=\count272
 \SB@skip=\skip50
 \SB@envbox=\box55
 
@@ -125,8 +125,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-\c@songnum=\count271
-\c@versenum=\count272
+\c@songnum=\count273
+\c@versenum=\count274
 \versesep=\skip51
 \afterpreludeskip=\skip52
 \beforepostludeskip=\skip53
@@ -136,31 +136,31 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \versenumwidth=\skip57
 \cbarwidth=\skip58
 \sbarheight=\skip59
-\vvpenalty=\count273
-\ccpenalty=\count274
-\vcpenalty=\count275
-\cvpenalty=\count276
-\brkpenalty=\count277
-\spenalty=\count278
-\minfrets=\count279
+\vvpenalty=\count275
+\ccpenalty=\count276
+\vcpenalty=\count277
+\cvpenalty=\count278
+\brkpenalty=\count279
+\spenalty=\count280
+\minfrets=\count281
 \SB@colwidth=\dimen147
 \SB@songbox=\box56
-\SB@numcols=\count280
-\SB@colnum=\count281
+\SB@numcols=\count282
+\SB@colnum=\count283
 \SB@colbox=\box57
 \SB@pgbox=\box58
 \SB@mrkbox=\box59
-\SB@groupcnt=\count282
+\SB@groupcnt=\count284
 \SB@titlelist=\toks19
 \SB@titletail=\toks20
 \SB@parindent=\dimen148
 \SB@chorusbox=\box60
 \SB@cmarkclass=\marks4
 \SB@nocmarkclass=\marks5
-\SB@grouplvl=\count283
-\SB@transposefactor=\count284
+\SB@grouplvl=\count285
+\SB@transposefactor=\count286
 \SB@lyric=\toks21
-\SB@numhyps=\count285
+\SB@numhyps=\count287
 \SB@lyricnohyp=\toks22
 \SB@lyricbox=\box61
 \SB@chordbox=\box62
@@ -168,7 +168,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \SB@ctail=\toks24
 \SB@fretwidth=\skip60
 \SB@tabindent=\dimen149
-\c@SB@songsnum=\count286
+\c@SB@songsnum=\count288
 \SB@songwrites=\box63
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3786.
@@ -312,16 +312,16 @@ fBuzz].
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count289
 \scratchdimen=\dimen152
 \scratchbox=\box64
-\nofMPsegments=\count288
-\nofMParguments=\count289
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count290
+\MPscratchCnt=\count292
 \MPscratchDim=\dimen153
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -341,50 +341,296 @@ Package luatex.def Info: ./images/music.jpeg  used on input line 27.
 (./toc.sbx
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/m/sl' undefined
-(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 5.
+(Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 2.
 
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./images/music.jpeg>]
-[2</tmp/lua_2r7EdW></tmp/lua_5J0Dyr></tmp/lua_xSTmKI>]
+[2</tmp/lua_F1tWb5></tmp/lua_V0MMa7>]
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji(0)/bx/n' undefined
 (Font)              using `TU/NotoColorEmoji(0)/m/n' instead on input line 36.
 
 [3
 
-</tmp/lua_y50jee>] (./songs.sbd
-<./images/praying-child.jpeg, id=25, 801.99625pt x 1027.84pt>
+</tmp/lua_LBO9Ce></tmp/lua_hfmMot>] (./songs.sbd
+<./images/butterfly.jpg, id=25, 794.97pt x 613.0905pt>
+File: ./images/butterfly.jpg Graphic file (type jpg)
+<use ./images/butterfly.jpg>
+Package luatex.def Info: ./images/butterfly.jpg  used on input line 31.
+(luatex.def)             Requested size: 187.89912pt x 144.90887pt.
+<./images/elephant.png, id=26, 1250.6725pt x 750.805pt>
+File: ./images/elephant.png Graphic file (type png)
+<use ./images/elephant.png>
+Package luatex.def Info: ./images/elephant.png  used on input line 63.
+(luatex.def)             Requested size: 234.87749pt x 140.99326pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 63--64
+ [] 
+ []
+
+
+Underfull \vbox (badness 6978) detected at line 66
+ []
+
+<./images/sand.jpeg, id=27, 1066.98625pt x 738.76pt>
+File: ./images/sand.jpeg Graphic file (type jpg)
+<use ./images/sand.jpeg>
+Package luatex.def Info: ./images/sand.jpeg  used on input line 86.
+(luatex.def)             Requested size: 187.89912pt x 130.09656pt.
+
+Underfull \vbox (badness 5245) detected at line 89
+ []
+
+[4
+
+<./images/butterfly.jpg><./images/elephant.png>]
+<./images/stars.png, id=34, 749.80125pt x 750.805pt>
+File: ./images/stars.png Graphic file (type png)
+<use ./images/stars.png>
+Package luatex.def Info: ./images/stars.png  used on input line 108.
+(luatex.def)             Requested size: 187.89912pt x 188.14758pt.
+
+Underfull \vbox (badness 10000) detected at line 111
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 146
+ []
+
+[5
+
+<./images/sand.jpeg><./images/stars.png>]
+<./images/bud.jpeg, id=39, 628.3475pt x 444.66125pt>
+File: ./images/bud.jpeg Graphic file (type jpg)
+<use ./images/bud.jpeg>
+Package luatex.def Info: ./images/bud.jpeg  used on input line 193.
+(luatex.def)             Requested size: 187.89912pt x 132.96516pt.
+<./images/jungle.jpeg, id=40, 1205.50375pt x 1506.62875pt>
+File: ./images/jungle.jpeg Graphic file (type jpg)
+<use ./images/jungle.jpeg>
+Package luatex.def Info: ./images/jungle.jpeg  used on input line 209.
+(luatex.def)             Requested size: 187.89912pt x 234.81244pt.
+
+Underfull \vbox (badness 10000) detected at line 212
+ []
+
+[6
+
+<./images/bud.jpeg>]
+<./images/friends.png, id=44, 1207.51125pt x 1098.1025pt>
+File: ./images/friends.png Graphic file (type png)
+<use ./images/friends.png>
+Package luatex.def Info: ./images/friends.png  used on input line 236.
+(luatex.def)             Requested size: 187.89912pt x 170.87434pt.
+<./images/shepherd.jpeg, id=45, 406.81987pt x 604.35788pt>
+File: ./images/shepherd.jpeg Graphic file (type jpg)
+<use ./images/shepherd.jpeg>
+Package luatex.def Info: ./images/shepherd.jpeg  used on input line 264.
+(luatex.def)             Requested size: 187.89912pt x 279.13304pt.
+
+Underfull \vbox (badness 10000) detected at line 267
+ []
+
+[7<./images/jungle.jpeg><./images/friends.png>]
+<./images/jesus_children.png, id=49, 738.76pt x 923.45pt>
+File: ./images/jesus_children.png Graphic file (type png)
+<use ./images/jesus_children.png>
+Package luatex.def Info: ./images/jesus_children.png  used on input line 280.
+(luatex.def)             Requested size: 187.89912pt x 234.86368pt.
+
+Underfull \vbox (badness 5431) detected at line 283
+ []
+
+[8<./images/shepherd.jpeg><./images/jesus_children.png>]
+<./images/angels.png, id=54, 582.175pt x 781.92125pt>
+File: ./images/angels.png Graphic file (type png)
+<use ./images/angels.png>
+Package luatex.def Info: ./images/angels.png  used on input line 340.
+(luatex.def)             Requested size: 187.89912pt x 252.36751pt.
+
+Underfull \vbox (badness 10000) detected at line 343
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 364
+ []
+
+[9<./images/angels.png>]
+<./images/hiking.png, id=60, 396.54234pt x 502.74783pt>
+File: ./images/hiking.png Graphic file (type png)
+<use ./images/hiking.png>
+Package luatex.def Info: ./images/hiking.png  used on input line 399.
+(luatex.def)             Requested size: 187.89912pt x 238.22467pt.
+
+Underfull \vbox (badness 10000) detected at line 402
+ []
+
+<./images/castle.jpeg, id=61, 475.7775pt x 337.26pt>
+File: ./images/castle.jpeg Graphic file (type jpg)
+<use ./images/castle.jpeg>
+Package luatex.def Info: ./images/castle.jpeg  used on input line 437.
+(luatex.def)             Requested size: 187.89912pt x 133.19307pt.
+
+Underfull \vbox (badness 2165) detected at line 440
+ []
+
+[10<./images/hiking.png>]
+<./images/shield.jpeg, id=66, 1119.43219pt x 1355.0625pt>
+File: ./images/shield.jpeg Graphic file (type jpg)
+<use ./images/shield.jpeg>
+Package luatex.def Info: ./images/shield.jpeg  used on input line 475.
+(luatex.def)             Requested size: 187.89912pt x 227.44218pt.
+
+Underfull \vbox (badness 10000) detected at line 478
+ []
+
+<./images/sunrise.png, id=67, 635.37375pt x 395.4775pt>
+File: ./images/sunrise.png Graphic file (type png)
+<use ./images/sunrise.png>
+Package luatex.def Info: ./images/sunrise.png  used on input line 493.
+(luatex.def)             Requested size: 187.89912pt x 116.9545pt.
+
+Underfull \vbox (badness 2302) detected at line 496
+ []
+
+[11<./images/castle.jpeg><./images/shield.jpeg>]
+<./images/children.jpeg, id=72, 1948.27875pt x 930.47626pt>
+File: ./images/children.jpeg Graphic file (type jpg)
+<use ./images/children.jpeg>
+Package luatex.def Info: ./images/children.jpeg  used on input line 507.
+(luatex.def)             Requested size: 187.89912pt x 89.73076pt.
+
+Underfull \vbox (badness 2173) detected at line 524
+ []
+
+<./images/eskimo.png, id=73, 180.76984pt x 318.7657pt>
+File: ./images/eskimo.png Graphic file (type png)
+<use ./images/eskimo.png>
+Package luatex.def Info: ./images/eskimo.png  used on input line 558.
+(luatex.def)             Requested size: 93.94955pt x 165.67155pt.
+
+Underfull \vbox (badness 10000) detected at line 561
+ []
+
+[12<./images/sunrise.png><./images/children.jpeg>]
+<./images/numbers.png, id=78, 448.78009pt x 717.30052pt>
+File: ./images/numbers.png Graphic file (type png)
+<use ./images/numbers.png>
+Package luatex.def Info: ./images/numbers.png  used on input line 578.
+(luatex.def)             Requested size: 187.89912pt x 300.33383pt.
+
+Underfull \vbox (badness 3039) detected at line 581
+ []
+
+<./images/clean.png, id=79, 359.3425pt x 448.67625pt>
+File: ./images/clean.png Graphic file (type png)
+<use ./images/clean.png>
+Package luatex.def Info: ./images/clean.png  used on input line 606.
+(luatex.def)             Requested size: 187.89912pt x 234.61377pt.
+
+Underfull \vbox (badness 10000) detected at line 609
+ []
+
+[13<./images/eskimo.png><./images/numbers.png>]
+<./images/river.jpeg, id=84, 1269.74374pt x 982.67125pt>
+File: ./images/river.jpeg Graphic file (type jpg)
+<use ./images/river.jpeg>
+Package luatex.def Info: ./images/river.jpeg  used on input line 634.
+(luatex.def)             Requested size: 187.89912pt x 145.41507pt.
+
+Underfull \vbox (badness 10000) detected at line 637
+ []
+
+<./images/fountain.jpeg, id=85, 433.62pt x 407.3619pt>
+File: ./images/fountain.jpeg Graphic file (type jpg)
+<use ./images/fountain.jpeg>
+Package luatex.def Info: ./images/fountain.jpeg  used on input line 666.
+(luatex.def)             Requested size: 187.89912pt x 176.52345pt.
+
+Underfull \vbox (badness 10000) detected at line 669
+ []
+
+[14<./images/clean.png><./images/river.jpeg>]
+Underfull \vbox (badness 3333) detected at line 690
+ []
+
+<./images/jesus_donkey.png, id=90, 523.9575pt x 794.97pt>
+File: ./images/jesus_donkey.png Graphic file (type png)
+<use ./images/jesus_donkey.png>
+Package luatex.def Info: ./images/jesus_donkey.png  used on input line 720.
+(luatex.def)             Requested size: 140.92792pt x 213.81992pt.
+
+Underfull \vbox (badness 10000) detected at line 723
+ []
+
+[15<./images/fountain.jpeg>]
+<./images/beluga.png, id=94, 923.45pt x 923.45pt>
+File: ./images/beluga.png Graphic file (type png)
+<use ./images/beluga.png>
+Package luatex.def Info: ./images/beluga.png  used on input line 793.
+(luatex.def)             Requested size: 187.89912pt x 187.8994pt.
+
+Underfull \vbox (badness 10000) detected at line 796
+ []
+
+[16<./images/jesus_donkey.png>]
+<./images/rejoice.jpeg, id=99, 903.375pt x 1023.825pt>
+File: ./images/rejoice.jpeg Graphic file (type jpg)
+<use ./images/rejoice.jpeg>
+Package luatex.def Info: ./images/rejoice.jpeg  used on input line 809.
+(luatex.def)             Requested size: 187.89912pt x 212.94745pt.
+
+Underfull \vbox (badness 1389) detected at line 812
+ []
+
+<./images/praying-child.jpeg, id=100, 801.99625pt x 1027.84pt>
 File: ./images/praying-child.jpeg Graphic file (type jpg)
 <use ./images/praying-child.jpeg>
 Package luatex.def Info: ./images/praying-child.jpeg  used on input line 856.
 (luatex.def)             Requested size: 187.89912pt x 240.8053pt.
 
+Underfull \vbox (badness 6396) detected at line 859
+ []
+
+[17<./images/beluga.png><./images/rejoice.jpeg>]
 Underfull \vbox (badness 10000) detected at line 879
  []
 
-<./images/strong_child.png, id=26, 1027.84pt x 1027.84pt>
+<./images/strong_child.png, id=104, 1027.84pt x 1027.84pt>
 File: ./images/strong_child.png Graphic file (type png)
 <use ./images/strong_child.png>
 Package luatex.def Info: ./images/strong_child.png  used on input line 925.
 (luatex.def)             Requested size: 187.89912pt x 187.88899pt.
-[4<./images/praying-child.jpeg>]
-<./images/shop.png, id=34, 998.22937pt x 1035.11719pt>
+[18<./images/praying-child.jpeg>]
+<./images/duck.png, id=108, 672.5125pt x 870.25125pt>
+File: ./images/duck.png Graphic file (type png)
+<use ./images/duck.png>
+Package luatex.def Info: ./images/duck.png  used on input line 961.
+(luatex.def)             Requested size: 187.89912pt x 243.1508pt.
+
+Underfull \vbox (badness 10000) detected at line 964
+ []
+
+<./images/shop.png, id=109, 998.22937pt x 1035.11719pt>
 File: ./images/shop.png Graphic file (type png)
 <use ./images/shop.png>
 Package luatex.def Info: ./images/shop.png  used on input line 1005.
 (luatex.def)             Requested size: 187.89912pt x 194.84213pt.
 
-Underfull \vbox (badness 10000) detected at line 1008
+Underfull \vbox (badness 3861) detected at line 1008
  []
 
-) [5<./images/strong_child.png><./images/shop.png>]
+[19<./images/strong_child.png><./images/duck.png>]
+Underfull \vbox (badness 2828) detected at line 1031
+ []
+
+) [20<./images/shop.png>]
 \openout3 = toc.sxd
- (./lyrics.sxc)
-(./lyrics.aux)
+ (./lyrics.sxc) (./lyrics.aux)
  ***********
-LaTeX2e <2023-06-01>
-L3 programming layer <2023-06-05>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
  ***********
 
 
@@ -393,16 +639,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 9466 strings out of 478043
- 100000,1977958 words of node,token memory allocated
- 11058 words of node memory still in use:
-   91 hlist, 8 vlist, 9 rule, 17 disc, 31 local_par, 391 glue, 65 kern, 87 penal
-ty, 783 glyph, 116 attribute, 60 glue_spec, 116 attribute_list, 5 write, 2 pdf_l
-iteral, 10 pdf_colorstack, 2 pdf_setmatrix, 2 pdf_save, 2 pdf_restore nodes
-   avail lists: 2:420,3:619,4:76,5:420,6:157,7:7954,8:2,9:635,10:12,11:213
- 29904 multiletter control sequences out of 65536+600000
+ 9896 strings out of 476553
+ 125002,1977958 words of node,token memory allocated
+ 7801 words of node memory still in use:
+   72 hlist, 8 vlist, 20 rule, 27 disc, 24 local_par, 251 glue, 41 kern, 47 pena
+lty, 520 glyph, 78 attribute, 60 glue_spec, 78 attribute_list, 5 write, 6 pdf_co
+lorstack nodes
+   avail lists: 2:514,3:726,4:90,5:636,6:208,7:10729,8:2,9:643,10:15,11:326
+ 31752 multiletter control sequences out of 65536+600000
  48 fonts using 8238607 bytes
- 109i,6n,115p,370b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,6n,115p,370b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman5-bold.otf></usr/share/texmf/f
 onts/opentype/public/lm/lmsans12-oblique.otf></usr/share/texmf/fonts/opentype/pu
 blic/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans1
@@ -410,10 +656,10 @@ blic/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans1
 /share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lyrics.pdf (5 pages, 1559319 bytes).
+Output written on lyrics.pdf (20 pages, 9600856 bytes).
 
-PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+PDF statistics: 166 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
